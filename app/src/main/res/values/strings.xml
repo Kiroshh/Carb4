@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Carb</string>
+    <string-array name="labels_array">
+        <item>People</item>
+        <item>Car</item>
+        <item>Dog</item>
+    </string-array>
+</resources>
